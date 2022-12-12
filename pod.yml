@@ -9,4 +9,4 @@ spec:
   - name: myapp-php
     image: martinssmatheus/myapp-php:1.0
     ports:
-    - containerPort: 8080
+    - containerPort: 80
