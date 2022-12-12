@@ -13,4 +13,4 @@ RUN apt-get update && apt-get install -y \
     && docker-php-ext-install mysqli
 
 
-EXPOSE 80
+EXPOSE 8080
